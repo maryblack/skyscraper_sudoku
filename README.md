@@ -1,5 +1,7 @@
 # Skyscraper sudoku
 
+!['visualization city'](skyscrapers.png)
+
 In a grid of 6 by 6 squares you need to place a skyscraper in each square with only some clues:
 
  - The height of the skyscrapers is between 1 and 6
